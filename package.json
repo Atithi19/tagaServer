@@ -1,0 +1,20 @@
+{
+  "name": "tagaServer",
+  "version": "1.0.0",
+  "description": "simple fashion website",
+  "main": "server.js",
+  "author": "Atithi Kumari",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "3.0.6",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "db.sqlite3": "^1.0.8",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^7.4.2",
+    "mysql": "^2.14.1",
+    "mysql2": "^1.6.1",
+    "nodemon": "^1.18.3",
+    "sequelize": "^4.38.0"
+  }
+}

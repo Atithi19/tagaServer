@@ -6,7 +6,7 @@
   "author": "Atithi Kumari",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "3.0.6",
+    "bcrypt": "5.0.0",
     "body-parser": "^1.17.2",
     "cors": "^2.8.4",
     "db.sqlite3": "^1.0.8",
